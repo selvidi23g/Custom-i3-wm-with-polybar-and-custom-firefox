@@ -4,7 +4,7 @@
   
 Copy config file  from /i3 to $HOME/.config/i3  
   
-# Firefox Tutorial from r/FirefoxCSS
+# Firefox tutorial from r/FirefoxCSS
   
 To improve performance, Firefox 69 and later will disable loading of userChrome.css and userContent.css by default. Your CSS customizations are not going away; all you will need to do is set the pref toolkit.legacyUserProfileCustomizations.stylesheets to truein about:config.  
   
